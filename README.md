@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=FBalint&project=button&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 # 3D Pressable Button
 
 
